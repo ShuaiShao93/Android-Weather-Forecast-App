@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobileForecast</string>
+    <string name="aeris_client_id">ZJb8CHfIeGiZk8U6Emcd9</string>
+    <string name="aeris_client_secret">ogBsuc4OOS3nEhQDQzNHdZJuuqivOAKKZm4zWf63</string>
+    <string name="facebook_app_id">768251599951659</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
